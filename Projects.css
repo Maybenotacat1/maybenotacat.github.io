@@ -1,0 +1,25 @@
+body {
+    background-color: black !important;
+}
+
+h1{ 
+    color: white !important;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif !important ;
+    font-style: initial !important;
+}
+
+p{ 
+    color: white !important;
+    text-align: center;
+    font-size: 20px;
+    font-style: initial !important ;
+
+}
+
+ol {
+    color: white;
+    font-size: 25px;
+
+}
